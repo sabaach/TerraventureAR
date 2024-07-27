@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d4dcc58225027104da081e1e980a8ba5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - netral: {fileID: 21300000, guid: 892840f6a7deb2d4ea0d29b6c07cdcb6, type: 3}
+  - sedih: {fileID: 21300000, guid: 427c8d5ff559b904195d6824b9b14228, type: 3}
+  - senang: {fileID: 21300000, guid: cbe423ab8b233ca4291aae07f7bbb4f4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
